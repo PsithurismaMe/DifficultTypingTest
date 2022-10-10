@@ -27,7 +27,7 @@ sudo apt install libncurses-dev g++
 ```
 ### Compiling Step
 
-If on a unix based OS, assuming your using g++
+If on a UNIX based OS, assuming your using g++
 ```
 g++ main.cpp -lncurses -o typeTest
 ```
